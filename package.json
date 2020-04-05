@@ -1,6 +1,6 @@
 {
   "name": "@devim-front/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Конфигурация ESLint для проектов на TS+React",
   "main": "index.js",
   "publishConfig": {
