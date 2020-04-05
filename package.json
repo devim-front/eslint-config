@@ -4,7 +4,7 @@
   "description": "Конфигурация ESLint для проектов на TS+React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests, sorry\"",
     "major": "np major",
     "minor": "np minor",
     "patch": "np patch"
