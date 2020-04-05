@@ -1,4 +1,5 @@
 {
   "tests": false,
-  "yarn": false
+  "yarn": false,
+  "publish": false
 }
