@@ -8,7 +8,7 @@
     "access": "public"
   },
   "scripts": {
-    "release": "np"
+    "release": "np && npm publish"
   },
   "author": "gleb-mikhalkov",
   "license": "ISC",
