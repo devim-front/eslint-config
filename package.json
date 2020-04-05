@@ -7,8 +7,7 @@
     "access": "public"
   },
   "scripts": {
-    "test": "",
-    "publish": "np"
+    "release": "np"
   },
   "author": "gleb-mikhalkov",
   "license": "ISC",
