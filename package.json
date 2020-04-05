@@ -4,10 +4,10 @@
   "description": "Конфигурация ESLint для проектов на TS+React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests, sorry\"",
-    "major": "np major",
-    "minor": "np minor",
-    "patch": "np patch"
+    "test": "",
+    "major": "np major --no-yarn --no-tests",
+    "minor": "np minor --no-yarn --no-tests",
+    "patch": "np patch --no-yarn --no-tests"
   },
   "author": "gleb-mikhalkov",
   "license": "ISC",
