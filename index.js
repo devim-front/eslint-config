@@ -37,6 +37,7 @@ module.exports = {
       },
     ],
     'no-unused-vars': 'off',
+    'spaced-comment': 'off',
     indent: 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/no-var-requires': 'off',
@@ -75,5 +76,6 @@ module.exports = {
     'react/static-property-placement': ['error', 'static public field'],
     'react/state-in-constructor': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'react/prefer-stateless-function': 'off',
   },
 };
