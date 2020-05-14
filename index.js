@@ -36,6 +36,8 @@ module.exports = {
         trailingComma: 'all',
       },
     ],
+    'no-useless-constructor': 'off',
+    'class-methods-use-this': 'off',
     'no-unused-vars': 'off',
     'spaced-comment': 'off',
     indent: 'off',
