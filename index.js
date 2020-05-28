@@ -36,6 +36,7 @@ module.exports = {
         trailingComma: 'all',
       },
     ],
+    'linebreak-style': ['error', 'unix'],
     'no-useless-constructor': 'off',
     'class-methods-use-this': 'off',
     'no-unused-vars': 'off',
